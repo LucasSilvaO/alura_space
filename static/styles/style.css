@@ -149,9 +149,6 @@ table {
     border-radius: 10px 10px 0 0;
 }
 
-.card:hover {
-    transform: scale(1.1);
-}
 
 .card__tag {
     background-color: #D9D9D940;
